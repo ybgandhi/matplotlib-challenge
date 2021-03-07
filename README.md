@@ -3,7 +3,7 @@ Matplot lib challenge
 
 The below is the intructions copied from the original assignment
 Please refer to the Observations.me for Analysis of the assignment
-
+The python file is nested in the "Pymaceuticals" folder as "pymaceuticals_starter.ipynb"
 
 ## Instructions
 
