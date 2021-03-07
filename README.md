@@ -2,6 +2,8 @@
 Matplot lib challenge
 
 The below is the intructions copied from the original assignment
+Please refer to the Observations.me for Analysis of the assignment
+
 
 ## Instructions
 
